@@ -11,6 +11,11 @@ Turn-Based Combat Game<br/>
 Point and click to move the unit. Click on the unit to change the player.
 
 
+## About code
+
+AI - uses simple BehaviourTree for its logic execution.
+
+
 ## Assets used
 https://assetstore.unity.com/packages/3d/characters/humanoids/mini-legion-grunt-pbr-hp-polyart-98187 
 
